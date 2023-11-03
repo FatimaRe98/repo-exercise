@@ -11,9 +11,9 @@ body {
   font-family: 'CustomFont', Verdana, sans-serif;
   margin: 0;
   background: #f2ebe9;
-}
+
 header{
-  position:fixed;
+  position:ixed;
   width: 100%;
   top:0;
   left:0;
